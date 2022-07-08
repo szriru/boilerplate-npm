@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "szriru",
+	"author": "szriru",
+	"description": "back-end training",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
