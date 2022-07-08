@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author" "szriru",
+  "author": "szriru",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,3 +13,4 @@
 		"url": "https://idontknow/todo.git"
 	}
 }
+ i
